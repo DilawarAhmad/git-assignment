@@ -1,2 +1,3 @@
 Name: Adil Wagay
 City: Srinagar
+Skills: Python, Django, SQL, React, GenAI, AgenticAI
